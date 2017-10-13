@@ -88,12 +88,6 @@ Lex: is not entirely excluded
 Regex: (is|was|are|were|does)\snot\s(entirely|totally|definitely|completely\s) excluded
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
-Comments: 4/29/2013
-Direction: backward
-Lex: is present
-Regex: (is|are) present
-Type: DEFINITE_EXISTENCE
----
 Comments: ''
 Direction: backward
 Lex: is ruled out
@@ -499,12 +493,6 @@ Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
-Lex: appears to be
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
-Direction: forward
 Lex: assessment for
 Regex: ''
 Type: INDICATION
@@ -595,27 +583,9 @@ Type: HISTORICAL
 ---
 Comments: ''
 Direction: forward
-Lex: compatible with
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
-Direction: forward
 Lex: concerning for
 Regex: ''
 Type: PROBABLE_EXISTENCE
----
-Comments: 2/14/2013
-Direction: forward
-Lex: consistent with
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
-Direction: forward
-Lex: convincing
-Regex: ''
-Type: DEFINITE_EXISTENCE
 ---
 Comments: ''
 Direction: forward
@@ -646,12 +616,6 @@ Direction: forward
 Lex: decrease in
 Regex: ''
 Type: HISTORICAL
----
-Comments: ''
-Direction: forward
-Lex: definite
-Regex: ''
-Type: DEFINITE_EXISTENCE
 ---
 Comments: ''
 Direction: forward
@@ -715,12 +679,6 @@ Type: INDICATION
 ---
 Comments: ''
 Direction: forward
-Lex: evidence
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
-Direction: forward
 Lex: did rule her out against
 Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
@@ -754,12 +712,6 @@ Direction: forward
 Lex: higher sensitivity for
 Regex: ''
 Type: INDICATION
----
-Comments: 4/29/2013
-Direction: forward
-Lex: highly suggestive
-Regex: ''
-Type: DEFINITE_EXISTENCE
 ---
 Comments: ''
 Direction: forward
@@ -1123,12 +1075,6 @@ Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
-Lex: obvious
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
-Direction: forward
 Lex: ought to be ruled out for
 Regex: ''
 Type: INDICATION
@@ -1138,12 +1084,6 @@ Direction: forward
 Lex: patient was not
 Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
----
-Comments: ''
-Direction: forward
-Lex: positive study for
-Regex: positive (study|exam|examination)( for)
-Type: DEFINITE_EXISTENCE
 ---
 Comments: 2/14/2013
 Direction: forward
@@ -1174,12 +1114,6 @@ Direction: forward
 Lex: remote
 Regex: ''
 Type: HISTORICAL
----
-Comments: ''
-Direction: forward
-Lex: represents
-Regex: ''
-Type: DEFINITE_EXISTENCE
 ---
 Comments: ''
 Direction: forward
@@ -2029,12 +1963,6 @@ Type: PROBABLE_EXISTENCE
 ---
 Comments: ''
 Direction: bidirectional
-Lex: believe
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
-Direction: bidirectional
 Lex: borderline
 Regex: ''
 Type: AMBIVALENT_EXISTENCE
@@ -2056,12 +1984,6 @@ Direction: forward
 Lex: can rule out for
 Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
----
-Comments: ''
-Direction: forward
-Lex: can see
-Regex: ''
-Type: DEFINITE_EXISTENCE
 ---
 Comments: ''
 Direction: forward
@@ -2124,18 +2046,6 @@ Regex: ''
 Type: PROBABLE_EXISTENCE
 ---
 Comments: ''
-Direction: forward
-Lex: gross evidence
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
-Direction: bidirectional
-Lex: high probability
-Regex: ''
-Type: DEFINITE_EXISTENCE
----
-Comments: ''
 Direction: bidirectional
 Lex: highly hesitant
 Regex: ''
@@ -2152,12 +2062,6 @@ Direction: forward
 Lex: insufficient to rule (the patient|him|her) out for
 Regex: ''
 Type: AMBIVALENT_EXISTENCE
----
-Comments: ''
-Direction: bidirectional
-Lex: is positive
-Regex: ''
-Type: DEFINITE_EXISTENCE
 ---
 Comments: ''
 Direction: forward
@@ -2194,12 +2098,6 @@ Direction: forward
 Lex: not only
 Regex: ''
 Type: PSEUDONEG
----
-Comments: ''
-Direction: forward
-Lex: reveals
-Regex: ''
-Type: DEFINITE_EXISTENCE
 ---
 Comments: ''
 Direction: backward
